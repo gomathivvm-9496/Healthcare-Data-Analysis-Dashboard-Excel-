@@ -3,6 +3,7 @@
 
 This project focuses on analyzing a healthcare dataset to extract meaningful insights about customers, medical charges, and demographic factors. The goal is to perform data cleaning, identify missing values, and understand patterns that impact healthcare costs.
 ## Objectives 
+To analyze healthcare data and identify patterns that can help in predicting outcomes and improving decision-making.
 - Clean and preprocess the dataset
 - Handle missing values
 - Convert data types (especially date columns)
@@ -12,6 +13,9 @@ This project focuses on analyzing a healthcare dataset to extract meaningful ins
     - City tier
     - Hospital tier
 - Identify patterns and trends in the dataset
+
+
+
 ## Dataset Description
 
 The dataset contains the following columns:

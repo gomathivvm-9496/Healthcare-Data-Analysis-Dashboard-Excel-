@@ -30,7 +30,7 @@ Includes:
 
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](image/Dashboard.png)
 
 
 
@@ -50,7 +50,7 @@ Includes:
 
 
 ## 📄 Report
-[Download Report](file:///C:/Users/gomat/OneDrive/Desktop/Healthcare%20Data%20Analysis%20Report.pdf)
+[Download Report](https://drive.google.com/drive/folders/1ZrSc5kZUfGukew4UvgiS1SkE0N57blia)
 
 
 
